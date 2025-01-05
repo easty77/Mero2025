@@ -1,0 +1,2120 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<careers>
+<career id="Kauto Star" name="Kauto Star">
+        <columns>
+            <column>October</column>
+            <column>November</column>
+            <column>December</column>
+            <column>Christmas</column>
+            <column>Jan-Feb</column>
+            <column>Cheltenham</column>
+            <column>Aintree/Punchestown</column>
+        </columns>
+        <rows>
+            <row title="2004/05">
+                <cell colspan="3"></cell>
+                <cell><race>71982</race></cell>
+                <cell><race>74880</race></cell>
+                <cell colspan="2"></cell>
+            </row>
+            <row title="2005/06">
+<cell><race title="Haldon Gold Cup">102448</race></cell>
+                <cell></cell>
+                <cell><race>105414</race></cell>
+                <cell colspan="2"></cell>
+                <cell><race>112531</race></cell>
+                <cell></cell>
+           </row>
+            <row title="2006/07">
+                <cell><race>136240</race></cell>
+                <cell><race>138711</race></cell>
+                <cell><race>139919</race></cell>
+                <cell><race>139439</race></cell>
+                <cell><race>144753</race></cell>
+                <cell><race>143490</race></cell>
+                <cell></cell>
+            </row>
+            <row title="2007/08">
+                <cell><race>172170</race></cell>
+                <cell><race>174779</race></cell>
+                <cell></cell>
+                <cell><race>174514</race></cell>
+                <cell><race>182138</race></cell>
+                <cell><race>179595</race></cell>
+                <cell><race>186474</race></cell>
+            </row>
+            <row title="2008/09">
+                <cell><race>210139</race></cell>
+                <cell><race>210908</race></cell>
+                <cell></cell>
+<cell><race title="King George VI Chase">215035</race></cell>
+                <cell></cell>
+                <cell><race>222914</race></cell>
+                <cell></cell>
+            </row>
+           <row title="2009/10">
+                <cell></cell>
+<cell><race title="Betfair Chase">265995</race></cell>
+                <cell></cell>
+<cell><race title="King George VI Chase">269365</race></cell>
+                <cell></cell>
+<cell><race title="Gold Cup">280789</race></cell>
+                <cell></cell>
+            </row>
+           <row title="2010/11">
+                <cell><race>320341</race></cell>
+                <cell colspan="2"></cell>
+<cell><race title="King George VI Chase">329033</race></cell>
+                <cell></cell>
+<cell><race title="Gold Cup">334875</race></cell>
+                <cell><race>342798</race></cell>
+            </row>
+          <row title="2011/12">
+                <cell></cell>
+<cell><race title="Betfair Chase">376869</race></cell>
+                <cell></cell>
+<cell><race title="King George VI Chase">377915</race></cell>
+                <cell></cell>
+<cell><race title="Gold Cup">389451</race></cell>
+                <cell></cell>
+            </row>
+        </rows>
+    </career>
+<career id="Denman" name="Denman">
+<rows><row title="2005/06">
+<cell><race>101478</race></cell>
+<cell><race>103991</race></cell>
+<cell></cell>
+<cell><race>108101</race></cell>
+<cell><race>111364</race></cell>
+<cell><race>112529</race></cell>
+</row>
+<row title="2006/07">
+<cell><race title="Novice Chase">137002</race></cell>
+<cell><race>137684</race></cell>
+<cell><race>139326</race></cell>
+<cell></cell>
+<cell><race>144751</race></cell>
+<cell><race>143554</race></cell>
+</row>
+<row title="2007/08">
+<cell></cell>
+<cell></cell>
+<cell><race title="Hennessy Gold Cup Handicap Chase">173270</race></cell>
+<cell><race>177464</race></cell>
+<cell><race>179753</race></cell>
+<cell><race>179595</race></cell>
+</row>
+<row title="2008/09">
+<cell></cell>
+<cell></cell>
+<cell></cell>
+<cell></cell>
+<cell><race>219532</race></cell>
+<cell><race>222914</race></cell>
+<cell><race>225425</race></cell>
+</row>
+<row title="2009/10">
+<cell></cell>
+<cell></cell>
+<cell><race title="Hennessy Gold Cup">266480</race></cell>
+<cell></cell>
+<cell><race>276653</race></cell>
+<cell><race title="Gold Cup">280789</race></cell>
+<cell><race title="Punchestown Gold Cup">284806</race></cell>
+</row>
+<row title="2010/11">
+<cell></cell>
+<cell></cell>
+<cell><race title="Hennessy Gold Cup Handicap Chase">319661</race></cell>
+<cell></cell>
+<cell></cell>
+<cell><race title="Gold Cup">334875</race></cell>
+<cell><race>338923</race></cell>
+</row>
+</rows>
+<columns>
+<column>October</column>
+<column>November</column>
+<column>Hennessy</column>
+<column>Christmas</column>
+<column>February</column>
+<column>Cheltenham</column>
+<column>Aintree/Punchestown</column>
+</columns>
+</career>        
+<career id="Master Minded" name="Master Minded">
+<rows><row title="2007/08">
+<cell></cell>
+<cell></cell>
+<cell><race>177059</race></cell>
+<cell><race>178553</race></cell>
+<cell><race>179754</race></cell>
+<cell><race>184876</race></cell>
+<cell><race>186289</race></cell>
+</row>
+<row title="2008/09">
+<cell></cell>
+<cell></cell>
+<cell><race>213170</race></cell>
+<cell><race>217054</race></cell>
+<cell></cell>
+<cell><race>222006</race></cell>
+<cell><race>229538</race></cell>
+</row>
+<row title="2009/10">
+<cell></cell>
+<cell><race>265097</race></cell>
+<cell></cell>
+<cell></cell>
+<cell><race>276654</race></cell>
+<cell><race>280468</race></cell>
+</row>
+<row title="2010/11">
+<cell></cell>
+<cell><race>322292</race></cell>
+<cell><race>325093</race></cell>
+<cell><race>328631</race></cell>
+<cell></cell>
+<cell><race>334867</race></cell>
+<cell><race>339038</race></cell>
+</row>
+<row title="2011/12">
+<cell><race>374217</race></cell>
+<cell><race>378393</race></cell>
+<cell><race title="King George VI Chase">377915</race></cell>
+</row>
+</rows>
+<columns>
+<column>October</column>
+<column>November</column>
+<column>December</column>
+<column>January</column>
+<column>February</column>
+<column>Cheltenham</column>
+<column>Aintree/Punchestown</column>
+</columns>
+</career>
+<career id="Big Buck's" name="Big Buck's">
+<rows><row title="2007/08">
+<cell><race>175404</race></cell>
+<cell><race>177855</race></cell>
+<cell><race>180160</race></cell>
+<cell><race>181582</race></cell>
+<cell><race>182339</race></cell>
+<cell><race>186287</race></cell>
+</row>
+<row title="2008/09">
+<cell><race>210892</race></cell>
+<cell><race>215439</race></cell>
+<cell><race>217722</race></cell>
+<cell></cell>
+<cell><race>222809</race></cell>
+<cell><race>225423</race></cell>
+</row>
+<row title="2009/10">
+<cell><race>267127</race></cell>
+<cell><race>270955</race></cell>
+<cell></cell>
+<cell></cell>
+<cell><race title="World Hurdle">280636</race></cell>
+<cell><race>283350</race></cell>
+</row>
+<row title="2010/11">
+<cell><race>323228</race></cell>
+<cell><race>327298</race></cell>
+<cell></cell>
+<cell></cell>
+<cell><race>334871</race></cell>
+<cell><race>338763</race></cell>
+</row>
+<row title="2011/12">
+<cell><race>379473</race></cell>
+<cell><race title="Long Walk Hurdle">380656</race></cell>
+<cell><race title="Cleeve Hurdle">386725</race></cell>
+<cell></cell>
+<cell><race title="World Hurdle">389453</race></cell>
+<cell><race>395836</race></cell>
+</row>
+<row title="2012/13">
+<cell><race>436678</race></cell>
+</row>
+<row title="2013/14">
+<cell></cell>
+<cell></cell>
+<cell><race title="Cleeve Hurdle">499871</race></cell>
+<cell></cell>
+<cell><race title="World Hurdle">503233</race></cell>
+</row>
+</rows>
+<columns>
+<column>Nov-Dec</column>
+<column>New Year</column>
+<column>January</column>
+<column>February</column>
+<column>Cheltenham</column>
+<column>Aintree</column>
+</columns>
+</career>
+<career id="Long Run" name="Long Run">
+<table>    
+<rows>
+<row title="2008">
+<cell colspan="3"></cell>
+<cell colspan="2">FLAT_LEGEND</cell>
+<cell colspan="2"></cell>
+<cell><race source="RP" title="Prix Wild Monarch">457717</race></cell>
+<cell><race source="RP" title="Prix Gras Savoye le Parisien">459615</race></cell>
+<cell><race source="RP" title="Prix Aguado">461350</race></cell>
+</row>
+</rows>
+<columns>
+<column colspan="7"></column>
+<column colspan="2">May</column>
+<column>June</column>
+</columns>
+</table>
+<table>
+<rows>
+<row title="2008/09">
+<cell><race source="RP" title="Prix de l'Hippodrome">465872</race></cell>
+<cell><race source="RP" title="Prix Georges de Talhouet-Roy">468017</race></cell>
+<cell><race source="RP" title="Prix Cambaceres">470011</race></cell>
+<cell colspan="3"></cell>
+<cell><race source="RP" title="Prix Jacques d'Indy">477881</race></cell>
+<cell><race source="RP" title="Prix de Pepinvast">480161</race></cell>
+<cell><race source="RP" title="Prix James Hennessy">482799</race></cell>
+<cell><race source="RP" title="Prix Ferdinand Dufaure">484723</race></cell>
+</row>
+<row title="2009/10">
+<cell></cell>
+<cell><race source="RP" title="Prix Orcada">492736</race></cell>
+<cell><race source="RP" title="Grand Steeple-Chase 4 Ans">494617</race></cell>
+<cell><race title="Feltham Novice Chase">270529</race></cell>
+<cell></cell>
+<cell><race title="Kingmaker Novice Chase">276559</race></cell>
+<cell><race title="RSA Chase">280467</race></cell>
+</row>
+<row title="2010/11">
+<cell></cell>    
+<cell colspan="0"></cell>
+<cell><race title="Paddy Power Gold Cup">319658</race></cell>
+<cell colspan="0"></cell>
+<cell><race title="King George VI Chase">329033</race></cell>
+<cell colspan="2"></cell>
+<cell><race title="Gold Cup">334875</race></cell>
+</row>
+<row title="2011/12">
+<cell colspan="2"></cell>
+<cell><race title="Betfair Chase">376869</race></cell>
+<cell><race title="King George VI Chase">377915</race></cell>
+<cell></cell>
+<cell><race title="Denman Chase">389222</race></cell>
+<cell><race title="Gold Cup">389451</race></cell>
+</row>
+<row title="2012/13">
+<cell colspan="2"></cell>
+<cell><race title="Betfair Chase">435704</race></cell>
+<cell><race title="King George VI Chase">434137</race></cell>
+<cell colspan="2"></cell>
+<cell><race title="Gold Cup">441997</race></cell>
+<cell></cell>
+<cell><race title="Punchestown Gold Cup">454133</race></cell>
+</row>
+<row title="2013/14">
+<cell></cell>
+<cell><race title="Charlie Hall Chase">488182</race></cell>
+<cell><race title="Betfair Chase">489631</race></cell>
+<cell><race title="King George VI Chase">489629</race></cell>
+<cell></cell>
+<cell><race title="Ivan Straker Memorial Chase">502529</race></cell>
+<cell></cell>
+<cell><race title="Grand National">501119</race></cell>
+<cell><race title="Punchestown Gold Cup" full_title="Bibby Financial Services Ireland Punchestown Gold Cup">514706</race></cell>
+<cell><race source="RP" title="Grand Steeple-Chase de Paris">603304</race></cell>
+</row>
+<row title="2015/16">
+<cell colspan="6"></cell>
+<cell><race title="Open Hunters' Chase">642662</race></cell>
+</row>
+</rows>
+<columns>
+<column>September</column>
+<column colspan="2">October-November</column>
+<column>Kempton</column>
+<column merowidth="2">January</column>
+<column>February</column>
+<column>Cheltenham</column>
+<column colspan="2">April</column>
+<column>May</column>
+</columns>
+</table>
+</career>
+<career id="On His Own" name="On His Own">
+<rows>
+<row title="2009/10">
+<cell colspan="2"></cell>
+<cell><race title="Bumper Flat Race">270606</race></cell>
+<cell colspan="3"></cell>
+<cell><race title="Champion Bumper">279440</race></cell>
+</row>
+<row title="2010/11">
+<cell colspan="2"></cell>
+<cell><race title="Neptune Investment Novice Hurdle">327541</race></cell>
+<cell><race title="Beginners Chase">329334</race></cell>
+<cell><race title="Towton Novice Chase">331398</race></cell>
+<cell></cell>
+<cell><race title="National Hunt Chase">334864</race></cell>
+<cell><race title="Novices' Handicap Chase">340167</race></cell>
+</row>
+<row title="2011/12">
+<cell colspan="2"></cell>
+<cell><race title="Paddy Power Chase">382964</race></cell>
+<cell><race title="Thyestes Handicap Chase">386242</race></cell>
+<cell colspan="3"></cell>
+<cell><race title="Grand National">387723</race></cell>
+</row>
+<row title="2012/13">
+<cell colspan="4"></cell>
+<cell colspan="0"></cell>
+<cell><race title="Boyne Hurdle">446569</race></cell>
+<cell colspan="0"></cell>
+<cell></cell>
+<cell><race title="Grand National">444488</race></cell>
+<cell><race title="Handicap Chase">454718</race></cell>
+<cell><race title="Tubbercurry Hurdle">458375</race></cell>
+<cell><race source="RP" title="Grande Course de Haies d'Auteuil">581676</race></cell>
+</row>
+<row title="2013/14">
+<cell><race title="Hurdle">487367</race></cell>
+<cell><race title="Becher Handicap Chase">491604</race></cell>
+<cell></cell>
+<cell><race title="Thyestes Handicap Chase">499167</race></cell>
+<cell></cell>
+<cell><race title="Bobbyjo Chase">504006</race></cell>
+<cell><race title="Gold Cup">498103</race></cell>
+<cell></cell>
+<cell><race title="Punchestown Gold Cup">514706</race></cell>
+</row>
+<row title="2014/15">
+<cell><race title="Champion Chase">554440</race></cell>
+<cell></cell>
+<cell><race title="Lexus Chase">563015</race></cell>
+<cell></cell>
+<cell><race title="Hennessy Gold Cup">569464</race></cell>
+<cell></cell>
+<cell><race title="Gold Cup">565621</race></cell>
+<cell><race title="Imperial Call Chase">578154</race></cell>
+<cell><race title="Punchestown Gold Cup">580183</race></cell>
+</row>
+<row title="2015/16">
+<cell><race title="Risk Of Thunder Chase">624253</race></cell>
+<cell><race title="Glenfarclas Cross Country Chase">628456</race></cell>
+<cell><race title="Lexus Chase">630828</race></cell>
+<cell></cell>
+<cell><race title="Irish Gold Cup">636387</race></cell>
+<cell><race title="Bobbyjo Chase">638459</race></cell>
+<cell><race title="Gold Cup">633416</race></cell>
+<cell><race title="Grand National">636570</race></cell>
+</row>
+<row title="2016/17">
+<cell colspan="3"></cell>
+<cell><race title="Hunter Chase">704204</race></cell>
+</row>
+</rows>
+<columns>
+<column>Oct-Nov</column>
+<column>December</column>
+<column>Christmas</column>
+<column>January</column>
+<column colspan="2">February</column>
+<column>Cheltenham</column>
+<column>April</column>
+<column>Punchestown</column>
+<column>May</column>
+<column>June</column>
+</columns>
+</career>
+<career id="Lord Windermere" name="Lord Windermere">
+<rows>
+<row title="2011/12">
+<cell><race>376525</race></cell>
+<cell><race>377874</race></cell>
+<cell><race title="E.B.F. Novice Hurdle">381290</race></cell>
+<cell colspan="2"></cell>
+<cell><race>388451</race></cell>
+<cell><race>391959</race></cell>
+<cell><race title="Novice Hurdle">395377</race></cell>
+</row>
+<row title="2012/13">
+<cell colspan="0"></cell>
+<cell><race>433984</race></cell>
+<cell colspan="0"></cell>
+<cell><race>437647</race></cell>
+<cell><race>439782</race></cell>
+<cell><race title="Killiney Novice Chase">443551</race></cell>
+<cell><race>445065</race></cell>
+<cell><race>443785</race></cell>
+</row>
+<row title="2013/14">
+<cell></cell>
+<cell><race title="Hennessy Gold Cup">488546</race></cell>
+<cell></cell>
+<cell><race>495716</race></cell>
+<cell></cell>
+<cell><race>502027</race></cell>
+<cell><race title="Gold Cup">498103</race></cell>
+</row>
+<row title="2014/15">
+<cell colspan="2"></cell>
+<cell><race title="John Durkan Memorial Chase">560527</race></cell>
+<cell><race title="Lexus Chase">563015</race></cell>
+<cell></cell>
+<cell></cell>
+<cell><race title="Gold Cup">565621</race></cell>
+</row>
+<row title="2016/17">
+<cell></cell>
+<cell><race title="Conditions Chase">695528</race></cell>
+<cell></cell>
+<cell><race title="Lexus Chase">701258</race></cell>
+<cell></cell>
+<cell><race title="Bobbyjo Chase">711149</race></cell>
+<cell></cell>
+<cell><race title="Grand National">707737</race></cell>
+</row>
+</rows>
+<columns>
+<column colspan="2">November</column>
+<column>December</column>
+<column>Christmas</column>
+<column>January</column>
+<column>February</column>
+<column>March</column>
+<column>April</column>
+</columns>
+</career>
+<career id="Hurricane Fly" name="Hurricane Fly">
+            <pedigree generation0="Hurricane Fly (IRE)|(b.g. 2004)"    
+    generation1="Montjeu (IRE)|(b 1996), Scandisk (IRE)|(b 1995)"
+    generation2="Sadler's Wells|(b 1981),Floripedes|(b 1985),Kenmare|(gr 1975),Yankee Lady|(b 1977)"
+    generation3="Northern Dancer,Fairy Bridge,Top Ville,Toute Cy,Kalamoun,Belle of Ireland,Lord Gayle,Ceol An Oir">
+</pedigree>
+<rows>
+    <row title="2007/08">
+        <cell colspan="2">pedigree</cell>
+<cell colspan="2">Trained in France by J-L Pelletan.  Second twice in four runs as a two-year-old.  Successful twice at 1 mile as a three-year-old including listed Prix Omnium at Saint-Cloud, but well beaten when tried in Group races</cell>
+<cell colspan="2">Bought by George Creighton and transferred to Willie Mullins</cell>
+<cell><race>190079</race></cell>
+<cell><race source="RP">459617</race></cell>
+<cell><race source="RP">461614</race></cell>
+</row>
+<row title="2008/09">
+<cell><race>212742</race></cell>
+<cell></cell>
+<cell><race>214877</race></cell>
+<cell colspan="2">Entered in both Irish and Cheltenham Champion Hurdles.</cell>
+<cell>Missed Cheltenham due to splint problem.</cell>
+<cell><race>229535</race></cell>
+<cell>Entered in Group 1 Tattersalls Gold Cup over 10 furlongs in May, but given summer break to concentrate on hurdling.  Ante-post favpurite for Champion Hurdle.</cell>
+<cell>5 wins from 6 runs.| |3 Group One victories.</cell>
+</row>
+<row title="2009/10">
+<cell><race>265498</race></cell>
+<cell></cell>
+<cell>Sprained a suspensory ligament, shortly before Christmas, while being prepared for Festival Hurdle.</cell>
+<cell></cell>
+<cell></cell>
+<cell></cell>
+<cell><race>285565</race></cell>
+<cell>Ended the season second favourite (at 6/1) in ante-post list for Champion Hurdle.</cell>
+<cell>6 wins from 7 runs.| |4 Group One victories.</cell>
+</row>
+<row title="2010/11">
+<cell>Missed intended return in Morgiana Hurdle as trainer not happy with him, but had spin over 12 furlongs on the Flat after racing.</cell>
+<cell><race>325789</race></cell>
+<cell><race>327109</race></cell>
+<cell><race>329958</race></cell>
+<cell></cell>
+<cell><race title="Champion Hurdle">334862</race></cell>
+<cell><race title="Champion Hurdle">343861</race></cell>
+<cell>Speculation that Hurricane Fly would contest the Grande Course de Haies d'Auteuil over an extended three miles.  Win in Hatton's Grace shows stays two and a half miles, but speed is greatest asset, so doubtful would stay three miles.  Timeform wondered whether a match between Hurricane Fly and Big Buck's (over 2.5 miles) could be arranged.</cell>
+<cell>11 wins from 12 runs.| |9 Group One victories.</cell>
+</row>
+<row title="2011/12">
+<cell colspan="2">Intended reappearances in Morgiana and then Festival Hurdles were ruled out due to unsatisfactory work.</cell>
+<cell>Work improved after Christmas, and a racecourse gallop at Leopardstown in early January went well.</cell>
+<cell><race>386843</race></cell>
+<cell></cell>
+<cell><race title="Champion Hurdle">389449</race></cell>
+<cell><race>398264</race></cell>
+<cell></cell>
+<cell>13 wins from 16 runs.| |11 Group One victories.</cell>
+</row>
+<row title="2012/13">
+<cell><race>434971</race></cell>
+<cell></cell>
+<cell><race>439783</race></cell>
+<cell><race title="Irish Champion Hurdle">443558</race></cell>
+<cell></cell>
+<cell><race title="Champion Hurdle">442769</race></cell>
+<cell><race title="Punchestown Champion Hurdle">454709</race></cell>
+<cell>Earnings now past the million-pound mark.  Hailed by Timeform as a true heir to Istabraq (23 wins from 26 completed starts).</cell>
+<cell>18 wins from 21 runs.| |16 Group One victories.</cell>
+</row>
+<row title="2013/14">
+<cell><race>490418</race></cell>
+<cell></cell>
+<cell><race>495721</race></cell>
+<cell><race>499886</race></cell>
+<cell></cell>
+<cell><race title="Champion Hurdle">501295</race></cell>
+<cell><race>515377</race></cell>
+<cell>For the first time in his life Hurricane Fly had suffered two consecutive defeats.  Generally thought that he would be stepped up in trip next season.</cell>
+<cell>21 wins from 26 runs.| |19 Group One victories.</cell>
+</row>
+<row title="2014/15">
+<cell><race>556844</race></cell>
+<cell></cell>
+<cell><race>563006</race></cell>
+<cell><race>567369</race></cell>
+<cell></cell>
+<cell><race title="Champion Hurdle">565673</race></cell>
+<cell><race title="World Series Hurdle">582076</race></cell>
+</row>
+</rows>
+<columns>
+<column>November</column>
+<column>December</column>
+<column>Christmas</column>
+<column>January</column>
+<column>February</column>
+<column>Cheltenham</column>
+<column>Punchestown</column>
+<column>May</column>
+<column>June</column>
+</columns>
+</career>
+<career id="Istabraq" name="Istabraq">
+<rows>
+<row title="1996-97">
+<cell><race source="RP">232339</race></cell>
+<cell><race source="RP">232755</race></cell>
+<cell><race source="RP">233519</race></cell>
+<cell><race source="RP">234419</race></cell>
+<cell></cell>
+<cell><race source="RP">233917</race></cell>
+<cell></cell>
+<cell><race source="RP">237993</race></cell>
+</row>
+<row title="1997-98">
+<cell><race source="RP">244595</race></cell>
+<cell><race source="RP">246552</race></cell>
+<cell><race source="RP">247373</race></cell>
+<cell><race source="RP">247879</race></cell>
+<cell></cell>
+<cell><race source="RP">247238</race></cell>
+<cell><race source="RP">247967</race></cell>
+</row>
+<row title="1998-99">
+<cell><race source="RP">258458</race></cell>
+<cell><race source="RP">259644</race></cell>
+<cell><race source="RP">261830</race></cell>
+<cell><race source="RP">262453</race></cell>
+<cell></cell>
+<cell><race source="RP">261694</race></cell>
+<cell><race source="RP">264251</race></cell>
+<cell><race source="RP">266655</race></cell>
+</row>
+<row title="1999/00">
+<cell><race source="RP">273816</race></cell>
+<cell><race source="RP">275130</race></cell>
+<cell><race source="RP">275887</race></cell>
+<cell><race source="RP">276415</race></cell>
+<cell></cell>
+<cell><race source="RP">275989</race></cell>
+</row>
+<row title="2000/01">
+<cell></cell>
+<cell></cell>
+<cell><race source="RP">295712</race></cell>
+<cell><race source="RP">296365</race></cell>
+<cell></cell>
+<cell></cell>
+<cell></cell>
+<cell><race source="RP">300437</race></cell>
+</row>
+<row title="2001/02">
+<cell></cell>
+<cell></cell>
+<cell><race source="RP">310792</race></cell>
+<cell></cell>
+<cell></cell>
+<cell><race source="RP">310546</race></cell>
+</row>
+</rows>
+<columns>
+<column>October</column>
+<column>November</column>
+<column>Christmas</column>
+<column>January</column>
+<column>February</column>
+<column>Cheltenham</column>
+<column>Aintree</column>
+<column>Punchestown</column>
+</columns>
+</career>
+<career id="One Man" name="One Man">
+            <pedigree generation0="One Man (IRE)|(gr.g. 1988"    
+    generation1="Remainder Man|(ch 1975), Steal On|(gr 1983)"
+    generation2="Connaught|(b 1965),Honerone|(b 1968),General Ironside|(gr 1973),Copp On|(b 1974)"
+    generation3="St Paddy,Nagaika,Sammy Davis,Leadendale Lady,Sea Hawk II,Come Dancing,Menelek,Stroll On">
+</pedigree>
+<rows>
+<row title="1993-94">
+<cell><race source="RP" title="Charisma Novice Chase">54541</race></cell>
+<cell><race source="RP">54631</race></cell>
+<cell><race source="RP" title="Tony Dickinson Novice Chase">54958</race></cell>
+<cell><race source="RP">55218</race></cell>
+<cell></cell>
+<cell><race source="RP">55960</race></cell>
+<cell><race source="RP">56828</race></cell>
+</row>
+<row title="1994-95">
+<cell><race source="RP">60263</race></cell>
+<cell><race source="RP" title="Hennessy Gold Cup">60536</race></cell>
+<cell>12/1 for the Gold Cup after Hennessy win.</cell>
+<cell><race source="RP">60996</race></cell>
+<cell></cell>
+<cell><race source="RP">61845</race></cell>
+<cell colspan="2">pedigree</cell>
+</row>
+<row title="1995-96">
+<cell><race source="RP" title="Motherwell Handicap Chase">65980</race></cell>
+<cell>Withdrawn from Hennessy on morning of race (11/8 Fav, set to carry 10st 9lb) due to heavy overnight rain.</cell>
+<cell><race source="RP">66497</race></cell>
+<cell><race source="RP" title="King George VI Chase">66776</race></cell>
+<cell>Due to run in Pillar Property Investments Chase, but race was lost to the weather.</cell>
+<cell>In the absence of a suitable prep race for Cheltenham, One Man was given two racecourse gallops, including at Carlisle, 8 days before the Gold Cup.</cell>
+<cell><race source="RP" title="Cheltenham Gold Cup">200088</race></cell>
+<cell>Having started 11/8 Fav, veterinary tests found nothing untoward.  Was his defeat in the Gold Cup simply due to lack of stamina?</cell>
+</row>
+<row title="1996-97">
+<cell><race source="RP">231388</race></cell>
+<cell colspan="2"></cell>
+<cell><race source="RP" title="King George VI Chase">232159</race></cell>
+<cell><race source="RP">233477</race></cell>
+<cell><race source="RP">233341</race></cell>
+<cell><race source="RP" title="Cheltenham Gold Cup">233343</race></cell>
+<cell><race source="RP" title="Martell Cup">235081</race></cell>
+</row>
+<row title="1997-98">
+<cell><race source="RP">244264</race></cell>
+<cell><race source="RP">245166</race></cell>
+<cell></cell>
+<cell><race source="RP" title="King George VI Chase">245442</race></cell>
+<cell></cell>
+<cell><race source="RP" title="Comet Chase">247164</race></cell>
+<cell><race source="RP">247165</race></cell>
+<cell><race source="RP" title="Melling Chase">247966</race></cell>
+</row>
+</rows>
+<columns>
+<column colspan="2">November</column>
+<column>December</column>
+<column>Christmas</column>
+<column>January</column>
+<column>February</column>
+<column>Cheltenham</column>
+<column>Aintree</column>
+</columns>
+</career>
+<career id="Silviniaco Conti" name="Silviniaco Conti">
+<rows><row title="2010/11">
+<cell><race title="'National Hunt' Novice Hurdle">315801</race></cell>
+<cell><race>318057</race></cell>
+<cell><race>322293</race></cell>
+<cell><race title="International Hurdle">325132</race></cell>
+<cell></cell>
+<cell><race>332980</race></cell>
+</row>
+<row title="2011/12">
+<cell><race title="Novice Chase">371797</race></cell>
+<cell><race>376370</race></cell>
+<cell></cell>
+<cell><race>383224</race></cell>
+<cell></cell>
+<cell><race>389259</race></cell>
+<cell></cell>
+<cell><race>396006</race></cell>
+</row>
+<row title="2012/13">
+<cell></cell>
+<cell><race>432861</race></cell>
+<cell><race title="Betfair Chase">435704</race></cell>
+<cell></cell>
+<cell></cell>
+<cell><race title="Denman Chase">445142</race></cell>
+<cell><race title="Gold Cup">441997</race></cell>
+<cell><race title="Aintree Bowl">451579</race></cell>
+</row>
+<row title="2013/14">
+<cell></cell>
+<cell></cell>
+<cell><race title="Betfair Chase">489631</race></cell>
+<cell><race title="King George VI Chase">489629</race></cell>
+<cell></cell>
+<cell></cell>
+<cell><race title="Gold Cup">498103</race></cell>
+<cell><race title="Aintree Bowl">510276</race></cell>
+</row>
+<row title="2014/15">
+<cell></cell>
+<cell><race title="Charlie Hall Chase">554120</race></cell>
+<cell><race title="Betfair Chase">557997</race></cell>
+<cell><race title="King George VI Chase">555876</race></cell>
+<cell colspan="2"></cell>
+<cell><race title="Gold Cup">565621</race></cell>
+<cell><race title="Aintree Bowl">578650</race></cell>
+</row>
+<row title="2015/16">
+<cell></cell>
+<cell><race title="Handicap Hurdle">621768</race></cell>
+<cell><race title="Betfair Chase">623115</race></cell>
+<cell><race>623109</race></cell>
+<cell></cell>
+<cell><race title="Ascot Chase">636572</race></cell>
+<cell></cell>
+<cell><race title="Grand National">636570</race></cell>
+</row> 	
+<row title="2016/17">
+<cell></cell>    
+<cell><race title="JNwine.com Champion Chase">692337</race></cell>    
+<cell><race title="Betfair Chase">694257</race></cell>
+<cell><race title="King George VI Chase">692649</race></cell>
+<cell><race title="Cotswold Chase">706246</race></cell>
+<cell colspan="2"></cell>
+<cell><race title="Aintree Bowl">718168</race></cell>
+</row>
+</rows>
+<columns>
+<column>October</column>
+<column colspan="2">November</column>
+<column>December</column>
+<column>January</column>
+<column>February</column>
+<column>Cheltenham</column>
+<column>Aintree</column>
+</columns>
+</career>
+<career id="Many Clouds" name="Many Clouds">
+<rows>
+<row title="2011/12">
+<cell colspan="4"></cell>
+<cell><race>389394</race></cell>
+<cell><race title="Champion Bumper">391132</race></cell>
+<cell><race>396620</race></cell>
+</row>
+<row title="2012/13">
+<cell><race>431773</race></cell>
+<cell><race>435531</race></cell>
+<cell></cell>
+<cell><race title="'National Hunt' Novice Hurdle">441781</race></cell>
+<cell><race title="'National Hunt' Novice Hurdle">445026</race></cell>
+<cell><race title="EBF Novice Handicap Hurdle Final">448341</race></cell>
+<cell><race>451582</race></cell>
+</row>
+<row title="2013/14">
+<cell><race title="Beginners Chase">488199</race></cell>
+<cell><race title="Novice Chase">491685</race></cell>
+<cell><race title="Novice Chase">496173</race></cell>
+<cell></cell>
+<cell><race>503002</race></cell>
+<cell><race>500196</race></cell>
+<cell><race title="Mildmay Novice Chase">510394</race></cell>
+</row>
+<row title="2014/15">
+<cell><race title="Colin Parker Intermediate Chase">554135</race></cell>
+<cell><race>554670</race></cell>
+<cell></cell>
+<cell><race title="Cotswold Chase">567238</race></cell>
+<cell></cell>
+<cell><race title="Gold Cup">565621</race></cell>
+<cell><race title="Grand National">569631</race></cell>
+</row>
+<row title="2015/16">
+<cell><race title="Charlie Hall Chase">621574</race></cell>
+<cell></cell>
+<cell><race title="Betfred Chase">625541</race></cell>
+<cell><race title="Cotswold Chase">635268</race></cell>
+<cell></cell>
+<cell><race title="Premier Chase">641652</race></cell>
+<cell><race title="Grand National">636570</race></cell>
+</row> 	
+<row title="2016/17">
+<cell colspan="2"></cell>
+<cell><race title="Betfred Lotto Chase">696873</race></cell>
+<cell><race title="Cotswold Chase">706246</race></cell>
+</row>
+</rows>
+<columns>
+<column colspan="2">October/November</column>
+<column>December</column>
+<column>January</column>
+<column>February</column>
+<column>March</column>
+<column>Aintree</column>
+</columns>
+</career>
+<career id="Rock on Ruby" name="Rock on Ruby">
+<rows>
+<row title="2009/10">
+<cell></cell>
+<cell><race title="National Hunt Flat Race">266541</race></cell>
+<cell colspan="2"></cell>
+<cell><race title="Maiden Open Nh Flat Race">275050</race></cell>
+<cell><race title="Bumper Nh Flat Race">279196</race></cell>
+</row>
+<row title="2010/11">
+<cell></cell>
+<cell><race title="Standard Open NH Flat Race">321404</race></cell>
+<cell><race title="Introductory Hurdle">327295</race></cell>
+<cell><race title="Neptune Investment Novice Hurdle">330591</race></cell>
+<cell></cell>
+<cell><race title="Baring Bingham Novice Hurdle">334865</race></cell>
+<cell><race>339182</race></cell>
+</row>
+<row title="2011/12">
+<cell></cell>
+<cell><race title="Intermediate Hurdle (Handicap)">379346</race></cell>
+<cell><race title="Christmas Hurdle">383225</race></cell>
+<cell colspan="2"></cell>
+<cell><race title="Champion Hurdle">389449</race></cell>
+<cell><race>396235</race></cell>
+</row>
+<row title="2012/13">
+<cell colspan="2"></cell>
+<cell><race>438672</race></cell>
+<cell></cell>
+<cell><race title="32Red Hurdle">444571</race></cell>
+<cell><race title="Champion Hurdle">442769</race></cell>
+<cell></cell>
+<cell><race title="Punchestown Champion Hurdle">454709</race></cell>
+</row>
+<row title="2013/14">
+<cell><race title="Listed Hurdle">485861</race></cell>
+<cell></cell>
+<cell><race title="Novice Chase">494421</race></cell>
+<cell></cell>
+<cell><race title="Novice Chase">501604</race></cell>
+<cell><race>500218</race></cell>
+<cell><race title="Aintree Hurdle">510277</race></cell>
+</row>
+<row title="2014/15">
+<cell></cell>
+<cell><race title="Elite Hurdle (Handicap)">555414</race></cell>
+<cell><race title="Relkeel Hurdle">561517</race></cell>
+<cell><race title="Dornan Engineering Hurdle">564064</race></cell>
+<cell colspan="2"></cell>
+<cell><race title="Aintree Hurdle">578651</race></cell>
+</row>
+<row title="2015/16">
+<cell><race>621572</race></cell>
+<cell><race>625217</race></cell> 	
+</row>
+</rows>
+<columns>
+<column>October</column>
+<column>November</column>
+<column>December</column>
+<column>January</column>
+<column>February</column>
+<column>Cheltenham</column>
+<column>Aintree</column>
+<column>Punchestown</column>
+</columns>
+</career>
+<career id="Sprinter Sacre" name="Sprinter Sacre">
+<rows>
+<row title="2009/10">
+<cell colspan="3"></cell>
+<cell><race title="NH Flat Race">277477</race></cell>
+<cell></cell>
+<cell colspan="0"></cell>
+<cell><race title="NH Flat Race">284360</race></cell>
+</row>
+<row title="2010/11">
+<cell><race title="'National Hunt' Novice Hurdle">322185</race></cell>
+<cell></cell>
+<cell><race>331388</race></cell>
+<cell><race title="'National Hunt' Novice Hurdle">332956</race></cell>
+<cell><race title="Supreme Novices' Hurdle">334860</race></cell>
+</row>
+<row title="2011/12">
+<cell colspan="0"></cell>
+<cell><race title="Novice Chase">380969</race></cell>
+<cell><race>383339</race></cell>
+<cell colspan="0"></cell>
+<cell><race title="Game Spirit Chase">389221</race></cell>
+<cell><race title="Arkle Challenge Trophy">390255</race></cell>
+<cell><race>396617</race></cell>
+</row>
+<row title="2012/13">
+<cell></cell>
+<cell><race>437658</race></cell>
+<cell><race>443476</race></cell>
+<cell></cell>
+<cell><race title="Queen Mother Champion Chase">442093</race></cell>
+<cell><race>451873</race></cell>
+<cell><race title="Champion Chase">452828</race></cell>
+</row>
+<row title="2013/14">
+<cell></cell>
+<cell><race>496162</race></cell>
+</row>
+<row title="2014/15">
+<cell colspan="2"></cell>
+<cell><race>564481</race></cell>
+<cell></cell>
+<cell><race>565666</race></cell>
+<cell></cell>
+<cell><race title="Celebration Chase">581475</race></cell> 	
+</row>
+<row title="2015/16">
+<cell><race>623014</race></cell>
+<cell><race title="Desert Orchid Chase">630667</race></cell>
+<cell colspan="2"></cell>
+<cell><race title="Queen Mother Champion Chase">633588</race></cell>
+<cell></cell>
+<cell><race title="Celebration Chase">648519</race></cell>
+</row>
+</rows>
+<columns>
+<column>November</column>
+<column>December</column>
+<column>January</column>
+<column>February</column>
+<column>Cheltenham</column>
+<column>Aintree</column>
+<column>April</column>
+</columns>
+</career>
+<career id="Somersby" name="Somersby">
+<rows>
+<row title="2007/08">
+<cell colspan="6"></cell>
+<cell><race title="Intermediate Open NH Flat Race">185525</race></cell>
+</row>
+<row title="2008/09">
+<cell><race>210006</race></cell>
+<cell><race title="Novice Hurdle">212250</race></cell>
+<cell colspan="2"></cell>
+<cell><race title="Novice Hurdle">217057</race></cell>
+<cell></cell>
+<cell><race>222486</race></cell>
+<cell><race title="Top Novices' Hurdle">225525</race></cell>
+</row>
+<row title="2009/10">
+<cell><race title="Novice Chase">263226</race></cell>
+<cell></cell>
+<cell><race title="Henry VIII Novice Chase">267866</race></cell>
+<cell colspan="3"></cell>
+<cell><race title="Arkle Challenge Trophy Chase">280334</race></cell>
+<cell><race>283201</race></cell>
+</row>
+<row title="2010/11">
+<cell><race>319465</race></cell>
+<cell></cell>
+<cell><race>325093</race></cell>
+<cell></cell>
+<cell><race>328631</race></cell>
+<cell></cell>
+<cell><race>334867</race></cell>
+<cell><race>339038</race></cell>
+</row>
+<row title="2011/12">
+<cell><race>375392</race></cell>
+<cell><race>378393</race></cell>
+<cell><race>380866</race></cell>
+<cell><race title="King George VI Chase">377915</race></cell>
+<cell><race title="Victor Chandler Chase">385936</race></cell>
+<cell></cell>
+<cell><race>389452</race></cell>
+<cell><race title="Celebration Chase">398314</race></cell>
+</row>
+<row title="2012/13">
+<cell colspan="4"></cell>
+<cell><race>443476</race></cell>
+<cell><race>445902</race></cell>
+<cell><race title="Queen Mother Champion Chase">442093</race></cell>
+</row>
+<row title="2013/14">
+<cell><race>488534</race></cell>
+<cell></cell>
+<cell><race>493193</race></cell>
+<cell></cell>
+<cell><race title="Clarence House Chase">498102</race></cell>
+<cell></cell>
+<cell><race title="Queen Mother Champion Chase">501291</race></cell>
+<cell><race>514728</race></cell>
+</row>
+<row title="2014/15">
+<cell><race title="Haldon Gold Cup">554460</race></cell>
+<cell><race title="Amlin 1965 Chase">557975</race></cell>
+<cell><race title="Tingle Creek Chase">560429</race></cell>
+<cell></cell>
+<cell><race>564481</race></cell>
+<cell></cell>
+<cell><race>565666</race></cell>
+</row>
+<row title="2015/16">
+<cell></cell>
+<cell><race>623014</race></cell>
+<cell><race title="Tingle Creek Chase">627633</race></cell>    
+<cell><race title="Desert Orchid Chase">630667</race></cell>
+<cell colspan="2"></cell>
+<cell><race title="Queen Mother Champion Chase">633588</race></cell>
+<cell><race title="Melling Chase">645775</race></cell>
+</row>
+</rows>
+<columns>
+<column colspan="2">November</column>
+<column>December</column>
+<column>Christmas</column>
+<column>January</column>
+<column>February</column>
+<column>March</column>
+<column>April</column>
+</columns>
+</career>
+<career id="Sizing Europe" name="Sizing Europe">
+<table>
+<rows>
+<row title="2005/06">
+<cell colspan="4"></cell>
+<cell><race>113293</race></cell>
+<cell></cell>
+<cell><race>119562</race></cell>
+</row>
+<row title="2006/07">
+<cell><race>136917</race></cell>
+<cell><race>139181</race></cell>
+<cell><race>141815</race></cell>
+<cell></cell>
+<cell colspan="0"></cell>
+<cell><race>151749</race></cell>
+<cell><race>153242</race></cell>
+</row>
+</rows>
+<columns>
+<column>October</column>
+<column>November</column>
+<column>December</column>
+<column>January/February</column>
+<column>March</column>
+<column>April</column>
+<column>May</column>
+</columns>
+</table>    
+<table>
+<rows>
+<row title="2007/08">
+<cell><race>171281</race></cell>
+<cell><race>173263</race></cell>
+<cell></cell>
+<cell><race>180474</race></cell>
+<cell><race>179831</race></cell>
+</row>
+<row title="2008/09">
+<cell></cell>
+<cell><race>211591</race></cell>
+<cell><race>214964</race></cell>
+<cell colspan="2"></cell>
+<cell><race>229729</race></cell>
+<cell><race>232341</race></cell>
+</row>
+<row title="2009/10">
+<cell><race>259834</race></cell>
+<cell><race>265495</race></cell>
+<cell><race>270597</race></cell>
+<cell></cell>
+<cell><race title="Arkle Challenge Trophy Chase">280334</race></cell>
+<cell><race>284800</race></cell>
+</row>
+<row title="2010/11">
+<cell><race>316374</race></cell>
+<cell><race>320341</race></cell>
+<cell></cell>
+<cell><race>330818</race></cell>
+<cell><race>334867</race></cell>
+<cell><race>342784</race></cell>
+</row>
+<row title="2011/12">
+<cell><race title="PWC Champion Chase">370707</race></cell>
+<cell><race>376357</race></cell>
+<cell><race title="Tingle Creek Chase">380195</race></cell>
+<cell><race>387621</race></cell>
+<cell><race title="Queen Mother Champion Chase">389450</race></cell>
+<cell><race>397462</race></cell>
+</row>
+<row title="2012/13">
+<cell><race>428349</race></cell>
+<cell><race>434302</race></cell>
+<cell><race>439752</race></cell>
+<cell><race>444322</race></cell>
+<cell><race title="Queen Mother Champion Chase">442093</race></cell>
+<cell><race title="Champion Chase">452828</race></cell>
+</row>
+<row title="2013/14">
+<cell><race>483381</race></cell>
+<cell><race>488153</race></cell>
+<cell><race>495583</race></cell>
+<cell></cell>
+<cell><race title="Queen Mother Champion Chase">501291</race></cell>
+<cell><race>514728</race></cell>
+</row>
+<row title="2014/15">
+<cell><race>548757</race></cell>
+<cell><race>556076</race></cell>
+<cell colspan="2"></cell>
+<cell><race>565666</race></cell>
+</row>
+</rows>
+<columns>
+<column>October</column>
+<column>November</column>
+<column>December</column>
+<column>January/February</column>
+<column>Cheltenham</column>
+<column>Punchestown</column>
+<column>May</column>
+</columns>
+</table>
+</career>
+<career id="Bobs Worth" name="Bobs Worth">
+<rows>
+<row title="2009/10">
+<cell colspan="4"></cell>
+<cell><race title="Maiden Open NH Flat Race">276473</race></cell>
+<cell></cell>
+<cell><race>283377</race></cell>
+</row>
+<row title="2010/11">
+<cell></cell>
+<cell><race title="'National Hunt' Novice Hurdle">322415</race></cell>
+<cell><race title="Neptune Investment Novice Hurdle">327541</race></cell>
+<cell><race title="Neptune Investment Novice Hurdle">330591</race></cell>
+<cell></cell>
+<cell><race>334873</race></cell>
+</row>
+<row title="2011/12">
+<cell></cell>
+<cell><race title="Berkshire Novice Chase">379624</race></cell>
+<cell><race>383224</race></cell>
+<cell></cell>
+<cell><race>389259</race></cell>
+<cell><race>390259</race></cell>
+</row>
+<row title="2012/13">
+<cell></cell>
+<cell><race>434996</race></cell>
+<cell colspan="3"></cell>
+<cell><race title="Gold Cup">441997</race></cell>
+</row>
+<row title="2013/14">
+<cell></cell>
+<cell><race title="Betfair Chase">489631</race></cell>
+<cell><race>495716</race></cell>
+<cell colspan="2"></cell>
+<cell><race title="Gold Cup">498103</race></cell>
+</row>
+<row title="2014/15">
+<cell colspan="2"></cell>
+<cell><race title="Lexus Chase">563015</race></cell>
+<cell colspan="2"></cell>
+<cell><race title="Gold Cup">565621</race></cell>
+<cell><race title="bet365 Gold Cup Chase">578339</race></cell>
+</row>
+<row title="2015/16">
+<cell><race title="Betfred Hurdle">622776</race></cell>
+<cell><race>623017</race></cell>
+<cell colspan="3"></cell>
+<cell><race title="World Hurdle">633595</race></cell>    
+</row>
+</rows>
+<columns>
+<column colspan="2">November-December</column>
+<column>Christmas</column>
+<column>January</column>
+<column>February</column>
+<column>Cheltenham</column>
+<column>April</column>
+</columns>
+</career>
+<career id="Al Ferof" name="Al Ferof">
+<rows>
+<row title="2009/10">
+<cell><race>262336</race></cell>
+<cell></cell>
+<cell><race title="Pro/Am Flat Race">268001</race></cell>
+<cell colspan="2"></cell>
+<cell><race>276551</race></cell>
+<cell><race title="Champion Bumper">279440</race></cell>
+</row>
+<row title="2010/11">
+<cell colspan="2"></cell>
+<cell><race title="Novice Hurdle">324944</race></cell>
+<cell><race>327296</race></cell>
+<cell><race title="Novice Hurdle">329497</race></cell>
+<cell><race title="Novice Hurdle">332141</race></cell>
+<cell><race title="Supreme Novices' Hurdle">334860</race></cell>
+</row>
+<row title="2011/12">
+<cell></cell>
+<cell><race title="November Novices' Chase">377481</race></cell>
+<cell><race title="Henry VIII Novice Chase">380307</race></cell>
+<cell></cell>
+<cell><race title="Victor Chandler Chase">385936</race></cell>
+<cell></cell>
+<cell><race title="Arkle Challenge Trophy">390255</race></cell>
+<cell><race title="Manifesto Novice Chase">395840</race></cell>
+</row>
+<row title="2012/13">
+<cell></cell>
+<cell><race title="Paddy Power Gold Cup">434138</race></cell>
+</row>
+<row title="2013/14">
+<cell></cell>
+<cell><race>491382</race></cell>
+<cell></cell>
+<cell><race title="King George VI Chase">489629</race></cell>
+<cell></cell>
+<cell><race>501900</race></cell>
+<cell><race title="Ryanair Chase">503231</race></cell>
+</row>
+<row title="2014/15">
+<cell></cell>
+<cell><race title="Amlin 1965 Chase">557975</race></cell>
+<cell></cell>
+<cell><race title="King George VI Chase">555876</race></cell>
+<cell colspan="3"></cell>
+<cell><race title="Melling Chase">578856</race></cell>
+<cell><race title="Oaksey Chase">581474</race></cell>
+</row>
+<row title="2015/16">
+<cell colspan="2"></cell>
+<cell><race title="Peterborough Chase">627645</race></cell>
+<cell><race>623109</race></cell>
+<cell colspan="2"></cell>
+<cell><race title="Ryanair Chase">633594</race></cell>
+<cell><race title="Melling Chase">645775</race></cell>
+</row>
+</rows>
+<columns>
+<column>October</column>
+<column>November</column>
+<column>December</column>
+<column>Christmas</column>
+<column>January</column>
+<column>February</column>
+<column>Cheltenham</column>
+<column>Aintree</column>
+<column>April</column>
+</columns>
+</career>
+<career id="Synchronised" name="Synchronised">
+<rows>
+<row title="2007/08">
+<cell colspan="4"></cell>
+<cell><race title="Maiden Hurdle">181929</race></cell>
+<cell><race title="Maiden Hurdle">185383</race></cell>
+</row>
+<row title="2008/09">
+<cell></cell>
+<cell><race title="Handicap Hurdle">210496</race></cell>
+<cell></cell>
+<cell><race title="Conditional Jockeys' Handicap Hurdle">218585</race></cell>
+<cell><race title="Pertemps Handicap Hurdle">219892</race></cell>
+<cell><race title="Pertemps Final">221914</race></cell>
+</row>
+<row title="2009/10">
+<cell></cell>
+<cell><race title="Beginners Chase">266064</race></cell>
+<cell><race title="Novice Chase">267878</race></cell>
+<cell><race title="Novice Chase">274101</race></cell>
+<cell></cell>
+<cell><race title="Midlands Grand National">281012</race></cell>
+</row>
+<row title="2010/11">
+<cell></cell>
+<cell><race title="Pertemps Handicap Hurdle">322191</race></cell>
+<cell><race title="Handicap Hurdle">324943</race></cell>
+<cell><race title="Welsh National">328360</race></cell>
+<cell></cell>
+<cell><race title="Midlands Grand National">336430</race></cell>
+<cell><race title="Irish Grand National">341504</race></cell>
+</row>
+<row title="2011/12">
+<cell><race title="Pertemps Handicap Hurdle">374110</race></cell>
+<cell><race title="'Fixed Brush' Handicap Hurdle">378406</race></cell>
+<cell><race title="Lexus Chase">383051</race></cell>
+<cell colspan="2"></cell>
+<cell><race title="Gold Cup">389451</race></cell>
+<cell><race title="Grand National">387723</race></cell>
+</row>
+</rows>
+<columns>
+<column>October</column>
+<column>November</column>
+<column>December</column>
+<column>January</column>
+<column>February</column>
+<column>March</column>
+<column>April</column>
+</columns>
+</career>
+<career id="Imperial Commander" name="Imperial Commander">
+<rows>
+<row title="2006/07">
+<cell><race title="Standard Open NH Flat RAce">136464</race></cell>
+<cell><race title="Novice Hurdle">137689</race></cell>
+<cell><race title="Bristol Novice Hurdle">140070</race></cell>
+<cell><race title="Novice Hurdle">144876</race></cell>
+<cell><race title="Baring Bingham Novice Hurdle">143553</race></cell>
+<cell><race title="Sefton Novice Hurdle">151660</race></cell>
+</row>
+<row title="2007/08">
+<cell><race title="Beginners Chase">171393</race></cell>
+<cell><race title="Novice Chase">173793</race></cell>
+<cell><race title="Novice Chase">176543</race></cell>
+</row>
+<row title="2008/09">
+<cell></cell>
+<cell><race title="Paddy Power Gold Cup">210883</race></cell>
+<cell><race title="King George VI Chase">215035</race></cell>
+<cell></cell>
+<cell><race title="Ryanair Chase">222808</race></cell>
+<cell><race title="Punchestown Gold Cup">229310</race></cell>
+</row>
+<row title="2009/10">
+<cell></cell>
+<cell><race title="Betfair Chase">265995</race></cell>
+<cell><race title="King George VI Chase">269365</race></cell>
+<cell></cell>
+<cell><race title="Gold Cup">280789</race></cell>
+<cell><race title="Aintree Bowl">283198</race></cell>
+</row>
+<row title="2010/11">
+<cell></cell>
+<cell><race title="Betfair Chase">320738</race></cell>
+<cell colspan="2"></cell>
+<cell><race title="Gold Cup">334875</race></cell>
+</row>
+<row title="2012/13">
+<cell colspan="3"></cell>
+<cell><race title="Argento Chase">443380</race></cell>
+<cell></cell>
+<cell><race title="Grand National">444488</race></cell>
+</row>
+<row title="2013/14">
+<cell></cell>
+<cell><race title="Hennessy Gold Cup">488546</race></cell>
+</row>
+</rows>
+<columns>
+<column>October</column>
+<column>November</column>
+<column>December</column>
+<column>January</column>
+<column>March</column>
+<column>April</column>
+</columns>
+</career>
+<career id="Best Mate" name="Best Mate">
+<rows>
+<row title="1999/00">
+<cell></cell>
+<cell><race source="RP" title="Standard Open NH Flat Race">273738</race></cell>
+<cell></cell>
+<cell><race source="RP" title="'NH' Novice Hurdle">274601</race></cell>
+<cell><race source="RP" title="Tolworth Hurdle">275663</race></cell>
+<cell></cell>
+<cell><race source="RP" title="Supreme Novice Hurdle">276310</race></cell>
+<cell><race source="RP" title="Mersey Novice Hurdle">278352</race></cell>
+</row>
+<row title="2000/01">
+<cell><race source="RP" title="Novice Chase">291237</race></cell>
+<cell><race source="RP" title="Independent Novice Chase">292539</race></cell>
+<cell colspan="3"></cell>
+<cell><race source="RP" title="Scilly Isles Novice Chase">296048</race></cell>
+<cell></cell>
+<cell><race source="RP" title="Aintree Hurdle">298430</race></cell>
+</row>
+<row title="2001/02">
+<cell></cell>
+<cell><race source="RP" title="Haldon Gold Cup">307818</race></cell>
+<cell><race source="RP" title="First National Gold Cup">308027</race></cell>
+<cell><race source="RP" title="King George VI Chase">308715</race></cell>
+<cell colspan="2"></cell>
+<cell><race source="RP" title="Gold Cup">310252</race></cell>
+</row>
+<row title="2002/03">
+<cell colspan="2"></cell>
+<cell><race source="RP" title="Peterborough Chase">324404</race></cell>
+<cell><race source="RP" title="King George VI Chase">324604</race></cell>
+<cell colspan="2"></cell>
+<cell><race title="Gold Cup">13994</race></cell>
+</row>
+<row title="2003/04">
+<cell colspan="2"></cell>
+<cell><race title="Peterborough Chase">34730</race></cell>
+<cell><race title="Ericsson Chase">37715</race></cell>
+<cell colspan="2"></cell>
+<cell><race title="Gold Cup">44274</race></cell>
+</row>
+<row title="2004/05">
+<cell colspan="2"></cell>
+<cell><race title="William Hill Chase">68255</race></cell>
+<cell><race title="Lexus Chase">71892</race></cell>
+</row>
+<row title="2005/06">
+<cell></cell>
+<cell><race title="Haldon Gold Cup">102448</race></cell>
+</row>
+</rows>
+<columns>
+<column>October</column>
+<column colspan="2">November</column>
+<column>December</column>
+<column>January</column>
+<column>February</column>
+<column>March</column>
+<column>April</column>
+</columns>
+</career>
+<career id="War Of Attrition" name="War Of Attrition">
+<rows>
+<row title="2003/04">
+<cell></cell>
+<cell><race title="Maiden Hurdle">32794</race></cell>
+<cell><race title="Maiden Hurdle">35138</race></cell>
+<cell><race title="Maiden Hurdle">35991</race></cell>
+<cell><race title="Carol Hurdle">37184</race></cell>
+<cell><race title="Novice Hurdle">38290</race></cell>
+<cell></cell>
+<cell><race title="Supreme Novice Hurdle">44148</race></cell>
+</row>
+<row title="2004/05">
+<cell></cell>
+<cell><race title="Beginners Chase">66779</race></cell>
+<cell colspan="4"></cell>
+<cell><race title="Novice Chase">75318</race></cell>
+<cell><race title="Arkle Trophy Chase">78983</race></cell>
+<cell><race title="Maghull Novice Chase">81315</race></cell>
+<cell><race title="Swordlestown Cup Novice Chase">83031</race></cell>
+</row>
+<row title="2005/06">
+<cell><race title="Daily Star Chase">101289</race></cell>
+<cell><race title="Clonmel Oil Chase">103967</race></cell>
+<cell></cell>
+<cell><race title="John Durkan Memorial Chase">106259</race></cell>
+<cell><race title="Lexus Chase">107810</race></cell>
+<cell colspan="2"></cell>
+<cell><race title="Cheltenham Gold Cup">112535</race></cell>
+<cell></cell>
+<cell><race title="Punchestown Gold Cup">117787</race></cell>
+</row>
+<row title="2006/07">
+<cell><race title="Daily Star Chase">136026</race></cell>
+<cell><race title="James Nicholson Champion Chase">137568</race></cell>
+<cell></cell>
+<cell><race title="John Durkan Memorial Chase">140716</race></cell>
+<cell><race title="Lexus Chase">141908</race></cell>
+</row>
+<row title="2008/09">
+<cell><race title="Daily Star Chase">208288</race></cell>
+<cell><race title="Thurles Chase">210867</race></cell>
+<cell></cell>
+<cell><race title="John Durkan Memorial Chase">213606</race></cell>
+<cell><race title="Lexus Chase">214972</race></cell>
+<cell colspan="4"></cell>
+<cell><race title="Punchestown Gold Cup">229310</race></cell>
+</row>
+<row title="2009/10">
+<cell><race title="Gowran Park Champion Chase">258350</race></cell>
+<cell><race title="James Nicholson Champion Chase">263911</race></cell>
+<cell><race title="Hennessy Gold Cup">266480</race></cell>
+<cell></cell>
+<cell><race title="Christmas Hurdle">270631</race></cell>
+<cell><race title="Galmoy Hurdle">273755</race></cell>
+<cell><race title="Boyne Hurdle">276750</race></cell>
+<cell><race title="World Hurdle">280636</race></cell>
+<cell></cell>
+<cell><race title="Punchestown Gold Cup">284806</race></cell>
+</row>
+</rows>
+<columns>
+<column>October</column>
+<column colspan="2">November</column>
+<column colspan="2">December</column>
+<column>January</column>
+<column>February</column>
+<column>Cheltenham</column>
+<column>Aintree</column>
+<column>Punchestown</column>
+</columns>
+</career>
+<career id="Kicking King" name="Kicking King">
+<rows>
+<row title="2002">
+<cell colspan="5"></cell>
+<cell colspan="0"></cell>
+<cell><race source="RP" title="INH Flat Race">311124</race></cell>
+<cell colspan="0"></cell>
+<cell></cell>
+<cell><race source="RP" title="INH Flat Race">312788</race></cell>
+</row>
+<row title="2002/03">
+<cell colspan="2"></cell>
+<cell><race source="RP" title="Hurdle">325304</race></cell>
+<cell><race source="RP" title="Navan Novice Hurdle">325891</race></cell>
+<cell></cell>
+<cell><race title="Hurdle">11588</race></cell>
+<cell></cell>
+<cell><race title="Moscow Flyer Novice Hurdle">12574</race></cell>
+<cell><race title="Supreme Novices Hurdle">13941</race></cell>
+</row>
+<row title="2003/04">
+<cell colspan="2"></cell>
+<cell><race title="Craddockstown Novice Chase">34188</race></cell>
+<cell></cell>
+<cell><race title="Dennys Gold Medal Novice Chase">37543</race></cell>
+<cell><race title="Novice Chase">38582</race></cell>
+<cell><race title="Arkle Novice Chase">39782</race></cell>
+<cell></cell>
+<cell><race title="Arkle Trophy Chase">44149</race></cell>
+<cell><race title="Powers Gold Cup">46658</race></cell>
+<cell><race title="Swordlestown Cup Novice Chase">48107</race></cell>
+</row>
+<row title="2004/05">
+<cell><race title="Gowran Park Champion Chase">64098</race></cell>
+<cell></cell>
+<cell><race title="James Nicholson Chase">66971</race></cell>
+<cell><race title="John Durkan Memorial Chase">69759</race></cell>
+<cell><race title="King George VI Chase">71590</race></cell>
+<cell colspan="3"></cell>
+<cell><race title="Cheltenham Gold Cup">79253</race></cell>
+<cell></cell>
+<cell><race title="Punchestown Guinness Gold Cup">82946</race></cell>
+</row>
+<row title="2005/06">
+<cell></cell>
+<cell><race title="Daily Star Chase">101289</race></cell>
+<cell><race title="Betfair Chase">104078</race></cell>
+<cell></cell>
+<cell><race title="King George VI Chase">107530</race></cell>
+</row>
+<row title="2007/08">
+<cell colspan="6"></cell>
+<cell><race title="Normans Grove Chase">180469</race></cell>
+<cell><race title="Red Mills Chase">182274</race></cell>
+<cell colspan="2"></cell>
+<cell><race title="Punchestown Gold Cup">188666</race></cell>
+</row>
+<row title="2008/09">
+<cell><race title="Gowran Park Champion Chase">207244</race></cell>
+<cell><race title="Daily Star Chase">208288</race></cell>
+</row>
+</rows>
+<columns>
+<column colspan="2">October</column>
+<column>November</column>
+<column>December</column>
+<column>Christmas</column>
+<column colspan="2">January</column>
+<column>February</column>
+<column>March</column>
+<column>April</column>
+<column>Punchestown</column>
+</columns>
+</career>
+<career id="Binocular" name="Binocular">
+<table>
+<rows>
+<row title="2006">
+<cell colspan="5"></cell>
+<cell><race source="RP" title="Prix de Belleville">418843</race></cell>
+<cell><race source="RP" title="Prix Sicambre">432683</race></cell>
+</row>
+<row title="2007">
+<cell><race source="RP" title="Prix Maurice Caillault">427990</race></cell>
+<cell><race source="RP" title="Prix Francois Mathet">429205</race></cell>
+<cell><race source="RP" title="Prix De Pontarme">434154</race></cell>
+<cell><race source="RP" title="Prix Fasquel">436043</race></cell>
+<cell><race source="RP" title="Prix Pelleas">437263</race></cell>
+</row>
+</rows>
+<columns>
+<column colspan="2">March</column>
+<column>May</column>
+<column>June</column>
+<column>July</column>
+<column>October</column>
+<column>November</column>
+</columns>    
+</table>
+<table>
+<rows>
+<row title="2007/08">
+<cell colspan="2"></cell>
+<cell><race title="Juvenile Novice Hurdle">178557</race></cell>
+<cell><race title="Adonis Juvenile Novice Hurdle">181680</race></cell>
+<cell><race title="Supreme Novice Hurdle">181197</race></cell>
+<cell><race title="Anniversary 4-y-o Novice Hurdle">186475</race></cell>
+</row>
+<row title="2008/09">
+<cell><race title="Betfair Hurdle">210909</race></cell>
+<cell><race title="International Hurdle">214670</race></cell>
+<cell colspan="2"></cell>
+<cell><race title="Champion Hurdle">222489</race></cell>
+</row>
+<row title="2009/10">
+<cell><race title="Fighting Fifth Hurdle">266958</race></cell>
+<cell><race title="Christmas Hurdle">270726</race></cell>
+<cell></cell>
+<cell><race title="Contenders Hurdle">275754</race></cell>
+<cell><race title="Champion Hurdle">280335</race></cell>
+</row>
+<row title="2010/11">
+<cell><race title="Fighting Fifth Hurdle">323647</race></cell>
+<cell></cell>
+<cell><race title="Christmas Hurdle">329032</race></cell>
+<cell><race title="Contenders Hurdle">331483</race></cell>
+<cell></cell>
+<cell><race title="Aintree Hurdle">339183</race></cell>
+<cell><race title="Champion Hurdle">343861</race></cell>
+</row>
+<row title="2011/12">
+<cell><race title="Fighting Fifth Hurdle">377955</race></cell>
+<cell><race title="Christmas Hurdle">383225</race></cell>
+<cell></cell>
+<cell><race title="Kingwell Hurdle">389311</race></cell>
+<cell><race title="Champion Hurdle">389449</race></cell>
+</row>
+<row title="2012/13">
+<cell colspan="2"></cell>
+<cell><race title="Irish Champion Hurdle">443558</race></cell>
+<cell></cell>
+<cell><race title="Champion Hurdle">442769</race></cell>
+</row>
+</rows>
+<columns>
+<column>November</column>
+<column>December</column>
+<column>January</column>
+<column>February</column>
+<column>Cheltenham</column>
+<column>Aintree</column>
+<column>Punchestown</column>
+</columns>
+</table>
+</career>
+<career id="Rule The World" name="Rule The World">
+<rows>
+<row title="2012/13">
+<cell><race title="Maiden Hurdle">429903</race></cell>
+<cell><race title="Cork E.B.F. Novice Hurdle">433010</race></cell>
+<cell><race title="Novice Hurdle">437538</race></cell>
+<cell><race title="Slaney Novice Hurdle">441241</race></cell>
+<cell></cell>
+<cell><race title="Baring Bingham Novice Hurdle">444585</race></cell>
+<cell></cell>
+<cell><race title="Herald Champion Novice Hurdle">452827</race></cell>
+</row>
+<row height="2" title="2013/14">
+<cell><race title="Hurdle">487367</race></cell>
+<cell></cell>
+<cell><race title="Hatton's Grace Hurdle">492378</race><race title="Christmas Hurdle">495714</race></cell>
+<cell><race title="Limestone Lad Hurdle">498703</race></cell>
+<cell></cell>
+<cell><race title="World Hurdle">503233</race></cell>
+</row>
+<row height="2" title="2014/15">
+<cell></cell>
+<cell><race title="Beginners Chase">559339</race></cell>
+<cell></cell>
+<cell><race title="Woodlands Park Novice Chase">566276</race></cell>
+<cell><race title="Flogas Novice Chase">569462</race></cell>
+<cell><race title="Kilcock Novice Chase">573755</race><race title="Hugh McMahon Novice Chase">577024</race></cell>
+<cell><race title="Irish Grand National">578311</race></cell>
+<cell><race title="Handicap Chase">583134</race></cell>
+<cell><race title="Galway Plate">601985</race></cell>
+</row>
+<row height="2" title="2015/16">
+<cell><race title="Kerry National Handicap Chase">612259</race><race title="Like A Butterfly Novice Chase">616618</race></cell>
+<cell></cell>
+<cell><race title="Topaz Novice Chase">630813</race></cell>
+<cell><race title="Thyestes Handicap Chase">633730</race></cell>
+<cell></cell>
+<cell><race title="Kilcock Novice Chase">640540</race></cell>
+<cell><race title="Grand National">636570</race></cell>
+<cell><race title="Champion Novice Chase">647284</race></cell>
+</row>
+</rows>
+<columns>
+<column merowidth="4">September-October</column>
+<column>November</column>
+<column merowidth="4">December</column>
+<column>January</column>
+<column>February</column>
+<column merowidth="4">March</column>
+<column>April</column>
+<column>Punchestown</column>
+<column>July</column>
+</columns>
+</career>
+<career id="Wishfull Thinking" name="Wishfull Thinking">
+<rows>
+<row title="2008/09">
+<cell colspan="1"></cell>
+<cell colspan="2">JUMP_LEGEND</cell>
+<cell colspan="2"></cell>
+<cell><race title="Intermediate Open NH Flat Race">219874</race></cell>
+</row>
+<row title="2009/10">
+<cell colspan="2"></cell>
+<cell><race title="Maiden Hurdle">268940</race></cell>
+<cell></cell>
+<cell><race title="'NH' Novice Hurdle">273697</race></cell>
+<cell><race title="'NH' Novice Hurdle">276582</race></cell>
+<cell><race title="Coral Cup">278770</race></cell>
+<cell><race title="Silver Cross Handicap Hurdle">283202</race></cell>
+</row>
+<row title="2010/11">
+<cell><race title="Novice Chase">318095</race></cell>
+<cell><race title="Rising Stars Novice Chase">320294</race></cell>
+<cell><race title="Novice Chase">324938</race></cell>
+<cell></cell>
+<cell><race title="Murphy Group Chase">330589</race></cell>
+<cell></cell>
+<cell><race title="Jewson Novice Chase">334869</race></cell>
+<cell><race title="Manifesto Novice Chase">338767</race></cell>
+<cell><race title="Novice Handicap Chase">343860</race></cell>
+</row>
+<row title="2011/12">
+<cell></cell>
+<cell><race title="Paddy Power Gold Cup">375688</race></cell>
+<cell><race title="Tingle Creek Chase">380195</race></cell>
+<cell><race title="Desert Orchid Chase">383340</race></cell>
+<cell><race title="Victor Chandler Chase">385936</race></cell>
+<cell></cell>
+<cell><race title="Queen Mother Champion Chase">389450</race></cell>
+<cell><race title="Melling Chase">396007</race></cell>
+<cell><race title="Celebration Chase">398314</race></cell>
+</row>
+<row title="2012/13">
+<cell><race title="Old Roan Chase">431770</race></cell>
+<cell><race title="Shloer Chase">434857</race></cell>
+<cell></cell>
+<cell><race title="Desert Orchid Chase">440012</race></cell>
+<cell></cell>
+<cell><race title="Game Spirit Chase">445034</race></cell>
+<cell><race title="Queen Mother Champion Chase">442093</race></cell>
+<cell></cell>
+<cell><race title="Celebration Chase">454702</race></cell>
+</row>
+<row title="2013/14">
+<cell><race title="Old Roan Chase">487025</race></cell>
+<cell><race title="Paddy Power Gold Cup">488545</race></cell>
+<cell><race title="'Goals Galore' Chase">493203</race></cell>
+<cell></cell>
+<cell><race title="Freebets.com Trophy Chase">499734</race></cell>
+<cell></cell>
+<cell><race title="Queen Mother Champion Chase">501291</race></cell>
+<cell><race title="Melling Chase">510395</race></cell>
+</row>
+<row title="2014/15">
+<cell><race title="Old Roan Chase">552675</race></cell>
+<cell><race title="Amlin 1965 Chase">557975</race></cell>
+<cell><race title="Peterborough Chase">560446</race></cell>
+<cell><race title="King George VI Chase">555876</race></cell>
+<cell colspan="2"></cell>
+<cell><race title="Ryanair Chase">565627</race></cell>
+<cell><race title="Melling Chase">578856</race></cell>
+</row>
+<row title="2015/16">
+<cell><race title="Old Roan Chase">620367</race></cell>
+<cell></cell>
+<cell><race title="Peterborough Chase">627645</race></cell>
+<cell></cell>
+<cell><race title="williamhill.com Chase">632229</race></cell>
+<cell colspan="3"></cell>
+<cell><race title="Silver Trophy Chase">646562</race></cell>
+</row>
+</rows>
+<columns>
+<column>October</column>
+<column>November</column>
+<column>December</column>
+<column>Christmas</column>
+<column>January</column>
+<column>February</column>
+<column>Cheltenham</column>
+<column>Aintree</column>
+<column>April-May</column>
+</columns>
+</career>
+<career id="Three Musketeers" name="Three Musketeers">
+<rows>
+<row title="2014/15">
+<cell colspan="2"></cell>
+<cell><race title="Novice Hurdle">560417</race></cell>
+<cell><race title="Neptune Investment Novice Hurdle">565170</race></cell>
+<cell colspan="2"></cell>
+<cell><race title="Mersey Novice Hurdle">579085</race></cell>
+</row>
+<row title="2015/16">
+<cell><race title="32Red Novice Chase" full_title="32Red Novices' Chase">621588</race></cell>
+<cell><race title="Berkshire Novice Chase">626209</race></cell>
+<cell></cell>
+<cell><race title="Dipper Novice Chase">631270</race></cell>
+<cell></cell>
+<cell><race title="Golden Miller Novice Chase">633592</race></cell>
+</row>
+<row title="2016/17">
+<cell><race title="Old Roan Handicap Chase">689552</race></cell>    
+<cell><race title="bet365 Open Handicap Chase">696016</race></cell>
+<cell></cell>
+<cell><race title="Graduation Chase">704221</race></cell>
+<cell><race title="BetBright Handicap Chase">708872</race></cell>
+<cell></cell>
+<cell><race title="Liverpool Hurdle">718748</race></cell>
+</row>
+<row title="2017/18">
+<cell><race title="Silver Trophy Handicap Hurdle">762969</race></cell>    
+</row>
+</rows>
+<columns>
+<column colspan="2">November</column>
+<column>December</column>
+<column>January</column>
+<column>February</column>
+<column>March</column>
+<column>April</column>
+</columns>
+</career>
+<career id="Vaniteux" name="Vaniteux">
+<rows>
+<row title="2013/14">
+<cell></cell>
+<cell><race title="'NH' Novice Hurdle">493189</race></cell>
+<cell><race title="Novice Hurdle">495947</race></cell>
+<cell></cell>
+<cell><race title="'NH' Novice Hurdle">501467</race></cell>
+<cell><race title="Supreme Novice Hurdle">501294</race></cell>
+</row>
+<row title="2014/15">
+<cell><race title="Greatwood Hurdle">554818</race></cell>
+<cell><race title="International Hurdle">561516</race></cell>
+<cell></cell>
+<cell><race title="Dornan Engineering Hurdle">564064</race></cell>
+<cell></cell>
+<cell><race title="Champion Hurdle">565673</race></cell>
+<cell><race title="Aintree Hurdle">578651</race></cell>
+</row>
+<row title="2015/16">
+<cell><race title="Starlight Novice Chase">625426</race></cell>
+<cell></cell>
+<cell><race title="Wayward Lad Novices' Chase">630666</race></cell>
+<cell><race title="Lightning Novice Chase">635277</race></cell>
+<cell></cell>
+<cell><race title="Arkle Challenge Trophy Chase">634487</race></cell>
+<cell></cell>
+<cell><race title="Select Hurdle">648520</race></cell>
+</row>
+<row title="2016/17">
+<cell><race title="Shawbrook Handicap Chase">694954</race></cell>
+<cell><race title="Raymond Mould Handicap Chase">696864</race></cell>
+<cell></cell>
+<cell><race title="32Red Casino Chase">703756</race></cell>
+<cell></cell>
+<cell><race title="Ryanair Chase">704882</race></cell>
+<cell><race title="Handicap Chase">719240</race></cell>
+<cell><race title="Celebration Chase">719230</race></cell>
+</row>
+<row title="2017/18">
+<cell><race title="Randox Health Handicap Chase">765950</race></cell>    
+</row>
+</rows>
+<columns>
+<column>November</column>
+<column>December</column>
+<column>Christmas</column>
+<column>January</column>
+<column>February</column>
+<column>Cheltenham</column>
+<column colspan="2">April</column>
+</columns>
+</career>
+<career id="Housesofparliament" name="Housesofparliament">
+<table>
+<rows>
+<row title="2015">
+<cell colspan="6"></cell>
+<cell><race title="Maiden">616612</race></cell>
+</row>
+<row height="2" title="2016">
+<cell><race title="Maiden">646145</race><race title="Maiden">648478</race></cell>
+<cell><race title="Dee Stakes">650856</race><race title="Gallinule Stakes">654026</race></cell>
+<cell><race title="King Edward VII Stakes">651806</race></cell>
+<cell><race title="Bahrain Trophy">664564</race></cell>
+<cell><race title="Great Voltigeur Stakes">664658</race></cell>
+<cell><race title="St Leger">669462</race></cell>
+</row>
+</rows>
+<columns>
+<column merowidth="4">April</column>
+<column merowidth="4">May</column>
+<column>June</column>
+<column>July</column>
+<column>August</column>
+<column>September</column>
+<column>October</column>
+</columns>
+</table>
+<table>
+<rows>
+<row title="2016/17">
+<cell></cell>
+<cell><race title="3-Y-O Maiden Hurdle">700977</race></cell>
+<cell></cell>
+<cell><race title="Spring Juvenile Hurdle">708678</race></cell>
+<cell colspan="2"></cell>
+<cell><race title=" Novice Hurdle">745651</race></cell>
+</row>        
+<row title="2017/18">
+<cell><race title="Joe Mac Novice Hurdle">760116</race></cell>    
+</row>
+</rows>
+<columns>
+<column>October</column>
+<column>December</column>
+<column>January</column>
+<column>February</column>
+<column colspan="2">March-July</column>
+<column>August</column>
+</columns>    
+</table>
+</career>
+<career id="Vyta Du Roc" name="Vyta Du Roc">
+<rows>
+<row title="2012/13">
+<cell colspan="5"></cell>
+<cell colspan="0"></cell>
+<cell><race source="RP" title="Prix de Sermaise">589156</race></cell>
+<cell><race source="RP" title="Prix Romantisme">576025</race></cell>
+</row>
+<row title="2013/14">
+<cell colspan="8"></cell>
+<cell><race title="Maiden Hurdle">517155</race></cell>
+<cell><race title="Novice Hurdle">523930</race></cell>
+</row>
+<row title="2014/15">
+<cell colspan="0"></cell>
+<cell><race title="Supreme Trial Novice Hurdle">556737</race></cell>
+<cell colspan="0"></cell>
+<cell><race title="Neptune Investment Novice Hurdle">560206</race></cell>
+<cell><race title="Challow Novice Hurdle">563695</race></cell>
+<cell colspan="2"></cell>
+<cell><race title="Baring Bingham Novice Hurdle">571754</race></cell>
+<cell><race title="Sefton Novice Hurdle">578857</race></cell>
+</row>
+<row title="2015/16">
+<cell colspan="2"></cell>
+<cell><race title="Novice Chase">628458</race></cell>
+<cell></cell>
+<cell><race title="Novice Chase">632253</race></cell>
+<cell><race title="Reynoldstown Novice Chase">638353</race></cell>
+<cell><race title="RSA Chase">635616</race></cell>
+<cell><race title="Scottish Grand National">645220</race></cell>
+</row>
+<row title="2016/17">
+<cell><race title="Conditions Hurdle">692191</race></cell>    
+<cell><race title="Hennessy Gold Cup Chase">691165</race></cell>
+<cell></cell>
+<cell><race title="Handicap Chase">701694</race></cell>
+<cell></cell>
+<cell><race title="Handicap Chase">708253</race></cell>
+<cell></cell>
+<cell><race title="Bet365 Gold Cup">719231</race></cell>
+</row>
+</rows>
+<columns>
+<column colspan="2">November</column>
+<column>December</column>
+<column>Christmas</column>
+<column>January</column>
+<column>February</column>
+<column>March</column>
+<column>April</column>
+<column>May</column>
+<column>June</column>
+</columns>
+</career>
+<career id="Zubayr" name="Zubayr">
+<table>
+<rows>
+<row title="2015">
+<cell><race source="RP" title="Prix des Gobelins">627665</race></cell>
+<cell><race source="RP" title="Prix du Marche aux Fleurs">629231</race></cell>
+</row>
+</rows>
+<columns>
+<column>May</column>
+<column>June</column>
+</columns>
+</table>
+<table>
+<rows>    
+<row title="2015/16">
+<cell colspan="3"></cell>
+<cell><race title="Adonis Juvenile Hurdle">639338</race></cell>
+<cell><race title="Triumph Hurdle">636716</race></cell>
+</row>
+<row title="2016/17">
+<cell><race title="Elite Hurdle">692184</race></cell>    
+<cell><race title="December Handicap Hurdle">697554</race></cell>
+<cell></cell>
+ <cell><race title="Betfair Hurdle">704158</race></cell>
+ <cell></cell>
+<cell><race title="Children's Charity Handicap Hurdle">718467</race></cell>
+<cell><race title="Scottish Champion Hurdle">719239</race></cell>
+<cell><race title="Swinton Handicap Hurdle">726113</race></cell>
+<cell><race title="Maiden Stakes">730229</race></cell>
+<cell><race title="Handicap">738947</race></cell>
+<cell><race title="Ladies' Trophy Handicap">748359</race></cell>
+</row>
+<row title="2017/18">
+<cell><race title="Elite Hurdle">768956</race></cell>    
+</row>
+</rows>
+<columns>
+<column>November</column>
+<column>December</column>
+<column>January</column>
+<column>February</column>
+<column>March</column>
+<column colspan="2">April</column>
+<column colspan="2">May</column>
+<column colspan="2">Summer</column>
+</columns>
+</table>
+</career>
+</careers>
