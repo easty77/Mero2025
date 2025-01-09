@@ -466,7 +466,7 @@ private StandardPatternHandler m_standardHandler;
         String strSVGName = attributes.getValue("svg");
         
         ENESVGAction action = null;
-        String strFullClassName = "ene.mero.action.";
+        String strFullClassName = "ene.eneform.mero.action.";
         String[] astrClassNames = strStdClassName.split("\\.");
         strFullClassName += astrClassNames[0];
         if (astrClassNames.length > 1)  

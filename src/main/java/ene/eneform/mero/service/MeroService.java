@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package ene.eneform.mero;
+package ene.eneform.mero.service;
 
 import ene.eneform.mero.colours.ENERacingColours;
 import ene.eneform.mero.config.ENEColoursEnvironment;
@@ -12,6 +12,7 @@ import ene.eneform.mero.parse.ENEColoursParser;
 import org.apache.batik.transcoder.TranscoderInput;
 import org.apache.batik.transcoder.TranscoderOutput;
 import org.apache.batik.transcoder.image.PNGTranscoder;
+import org.springframework.stereotype.Service;
 import org.w3c.dom.Document;
 
 import java.awt.*;
@@ -22,9 +23,10 @@ import java.nio.file.Paths;
  *
  * @author Simon
  */
-public class Mero {
-    
-    public static void main(String[] args) {
+@Service
+public class MeroService {
+/*    
+    public void main(String[] args) {
         if (args.length > 0)
         {
             if ("parse".equals(args[0]))
@@ -43,8 +45,8 @@ public class Mero {
                 }
             }
         }
-    }
-    public static String parseDescription(String strDescription)
+    } */
+    public String parseDescription(String strDescription)
     {
         String strLanguage = ENEColoursEnvironment.DEFAULT_LANGUAGE;
         ENERacingColours colours = new ENEColoursParser(strLanguage, strDescription, "").parse();
@@ -52,15 +54,15 @@ public class Mero {
         return colours.getDefinition();
     }
 
-    public static String generateSVGContent(String strDefinition)
+    public String generateSVGContent(String strDefinition)
     {
         return generateSVGContent(strDefinition, null, null, false);
     }
-   public static String generateSVGContent(String strDefinition, String strBackgroundColour)
+   public String generateSVGContent(String strDefinition, String strBackgroundColour)
    {
        return generateSVGContent(strDefinition, strBackgroundColour, null, false);
    }
-   public static Rectangle getViewBox(Point capOrigin)
+   public Rectangle getViewBox(Point capOrigin)
     {
         ENEMeroFactory factory = new ENEMeroFactory(null, ENEColoursEnvironment.DEFAULT_LANGUAGE);
         if (capOrigin != null)
@@ -68,7 +70,7 @@ public class Mero {
         
         return factory.getViewBox(capOrigin);
     }
-public static String generateSVGContent(String strDefinition, String strBackgroundColour, Point capOrigin, boolean bCompress)
+public String generateSVGContent(String strDefinition, String strBackgroundColour, Point capOrigin, boolean bCompress)
     {
         String strSVGContent = "";
         String strLanguage = ENEColoursEnvironment.DEFAULT_LANGUAGE;
@@ -81,7 +83,7 @@ public static String generateSVGContent(String strDefinition, String strBackgrou
         strSVGContent = SVGFactoryUtils.convertSVGNode2String(document, bCompress);
         return strSVGContent;
     }
-    public static void generateSVG(String strDefinition, String strDirectory, String strFileName, String strBackgroundColour, Point capOrigin, boolean bCompress)
+    public void generateSVG(String strDefinition, String strDirectory, String strFileName, String strBackgroundColour, Point capOrigin, boolean bCompress)
     {
         try
         {
@@ -95,7 +97,7 @@ public static String generateSVGContent(String strDefinition, String strBackgrou
             e.printStackTrace();
         }
     }
-    public static void generatePNG(String strDefinition, String strDirectory, String strFileName, String strBackgroundColour, Point capOrigin, boolean bCompress)
+    public void generatePNG(String strDefinition, String strDirectory, String strFileName, String strBackgroundColour, Point capOrigin, boolean bCompress)
     {
         //String strSVG = generateSVGContent(strDefinition, strBackgroundColour, capOrigin, bCompress);
         try
@@ -119,7 +121,7 @@ public static String generateSVGContent(String strDefinition, String strBackgrou
             e.printStackTrace();
         }
     }       
- private static OutputStreamWriter createWriter(String strDirectory, String strFileName) throws FileNotFoundException, UnsupportedEncodingException
+ private OutputStreamWriter createWriter(String strDirectory, String strFileName) throws FileNotFoundException, UnsupportedEncodingException
    {
        boolean bOverwrite = true;
        OutputStreamWriter writer = null;

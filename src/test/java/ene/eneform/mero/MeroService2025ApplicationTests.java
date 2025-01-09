@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Mero2025ApplicationTests {
+class MeroService2025ApplicationTests {
 
     @Test
     void contextLoads() {

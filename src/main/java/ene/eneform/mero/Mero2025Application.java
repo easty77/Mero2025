@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Mero2025Application {
 
     public static void main(String[] args) {
+
         SpringApplication.run(Mero2025Application.class, args);
     }
 

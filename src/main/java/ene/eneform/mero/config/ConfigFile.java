@@ -4,6 +4,8 @@
  */
 package ene.eneform.mero.config;
 
+import lombok.extern.slf4j.Slf4j;
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -16,86 +18,42 @@ import java.util.Properties;
  *
  * @author Simon
  */
+@Slf4j
 public abstract class ConfigFile {
     // functions moved to FileUtils, but Mero package does not include UtilsENELibrary
 protected InputStream loadFile(String strFileName)
 {
-        System.out.println("loadConfigurationFile: " + strFileName);
-        InputStream is = getClass().getResourceAsStream(strFileName);
-        if (is == null)
-        {
-            try
-            {
-                if (strFileName.indexOf(":") < 0)
-                {
-                    // relying on current directory
-                    File directory = new File (".");
-                     try
-                     {
-                       System.out.println ("Current directory's canonical path: " + directory.getCanonicalPath());
-                       System.out.println ("Current directory's absolute  path: " + directory.getAbsolutePath());
-                     }
-                     catch(Exception e)
-                     {
-                       System.out.println("Exceptione is ="+e.getMessage());
-                     } 
-                } 
-              is = new FileInputStream(strFileName);
-            }
-            catch(FileNotFoundException e)
-            {
-               System.out.println("FileNotFoundException: " + strFileName);
-            }
-        }
-        if (is == null)
-        {
-            // relying on classpath
-            Properties prop = System.getProperties();
-            //System.out.println("Classpath=" + prop.getProperty("java.class.path", null));
-            System.out.println("File: " + ClassLoader.getSystemClassLoader().getResource(strFileName));
-            is = ClassLoader.getSystemClassLoader().getResourceAsStream(strFileName);
-        }
-        
+    InputStream is = null;
+    try
+    {
+        log.info("Loading {}", strFileName);
+        File file = new File(getClass().getClassLoader().getResource(strFileName).getFile());
+        is = new FileInputStream(file);
+    }
+    catch(FileNotFoundException e)
+    {
+        System.out.println("FileNotFoundException: " + strFileName);
+    }
         return is;
 }
-protected URL loadURL(String strFileName)
-{
-        System.out.println("loadConfigurationURL: " + strFileName);
-        URL url = getClass().getResource(strFileName);
-        if (url == null)
+    protected URL loadURL(String strFileName)
+    {
+        URL url = null;
+        try
         {
-            try
-            {
-                if (strFileName.indexOf(":") < 0)
-                {
-                    // relying on current directory
-                    File directory = new File (".");
-                    try
-                     {
-                       System.out.println ("Current directory's canonical path: " + directory.getCanonicalPath());
-                       System.out.println ("Current directory's absolute  path: " + directory.getAbsolutePath());
-                     }
-                     catch(Exception e)
-                     {
-                       System.out.println("Exceptione is ="+e.getMessage());
-                     } 
-                }
-              url = new File(strFileName).toURI().toURL();
-            }
-            catch(MalformedURLException e)
-            {
-               System.out.println("MalformedURLException: " + strFileName);
-            }
+            log.info("Loading {}", strFileName);
+            File file = new File(getClass().getClassLoader().getResource(strFileName).getFile());
+            InputStream is = new FileInputStream(file);
+            url = file.toURI().toURL();;
         }
-        if (url == null)
+        catch(FileNotFoundException e)
         {
-            // relying on classpath
-            Properties prop = System.getProperties();
-            System.out.println("Classpath=" + prop.getProperty("java.class.path", null));
-
-            url = ClassLoader.getSystemClassLoader().getResource(strFileName);
+            System.out.println("FileNotFoundException: " + strFileName);
         }
-        
+        catch(MalformedURLException e)
+        {
+            System.out.println("MalformedURLException: " + strFileName);
+        }
         return url;
-}
+    }
 }

@@ -113,7 +113,7 @@ public boolean loadSVG(String strFileName)
     }
     private SVGDocument loadSVGShapeFile(String strShape, String strFileName, String strDirectory) throws IOException
     {
-        String strFullFileName = strDirectory + "/" + strFileName + ".svg";
+        String strFullFileName =  strDirectory + strFileName + ".svg";
         InputStream is = loadFile(strFullFileName);
         if (is != null)
         {
