@@ -26,7 +26,7 @@ protected InputStream loadFile(String strFileName)
     InputStream is = null;
     try
     {
-        log.info("Loading {}", strFileName);
+        log.info("Loading File {}-{}", strFileName, getClass().getClassLoader().getResource(strFileName));
         File file = new File(getClass().getClassLoader().getResource(strFileName).getFile());
         is = new FileInputStream(file);
     }
@@ -41,7 +41,7 @@ protected InputStream loadFile(String strFileName)
         URL url = null;
         try
         {
-            log.info("Loading {}", strFileName);
+            log.info("Loading URL {}-{}", strFileName, getClass().getClassLoader().getResource(strFileName));
             File file = new File(getClass().getClassLoader().getResource(strFileName).getFile());
             InputStream is = new FileInputStream(file);
             url = file.toURI().toURL();;
